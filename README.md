@@ -1,0 +1,4 @@
+## NYC Bike Data Analysis, Regression Prediction and Exploration
+
+### Introduction
+We utilized data from [NYC Citi Bike](https://citibikenyc.com/system-data), one of the largest station-based bike-sharing systems in the United States. Our analysis includes data from the year 2018 for data analysis and regression prediction, while data from 2018, 2019, and 2020 were used for data exploration through the CNN model. For details, please refer to the [notebook](https://github.com/si-tong-chen/NYC-Bike-Data-Analysis-Regression-Prediction-and-Exploration/blob/main/NYC%20Bike%20Data%20Analysis%2C%20Regression%20Prediction%20and%20Exploration.ipynb)
